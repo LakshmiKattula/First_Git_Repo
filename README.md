@@ -1,2 +1,2 @@
 # First_Git_Repo
-print("welcome to git")
+print("welcome to github")
